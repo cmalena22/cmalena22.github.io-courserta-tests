@@ -154,7 +154,7 @@ h1 {
 }
 
 /********** Movil devices only **********/
-@media (max-width: 767px) {
+@media (max-width: 767px) and (min-width: 512px){
 
   .col-md-1,
   .col-md-2,
